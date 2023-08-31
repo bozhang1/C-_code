@@ -1,0 +1,16 @@
+﻿  Test.cpp
+D:\Code\cplus8-30\Test.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+D:\Code\cplus8-30\Test.cpp(55): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\cplus8-30\Test.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+D:\Code\cplus8-30\Test.cpp(67): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\cplus8-30\Test.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+D:\Code\cplus8-30\Test.cpp(143): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\cplus8-30\Test.cpp(154): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\cplus8-30\Test.cpp(158): warning C4018: “>”: 有符号/无符号不匹配
+D:\Code\cplus8-30\Test.cpp(187): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“mystring”
+D:\Code\cplus8-30\Test.cpp(189): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“mystring”
+D:\Code\cplus8-30\Test.cpp(191): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“mystring”
+  cplus8-30.vcxproj -> D:\Code\cplus8-30\Debug\cplus8-30.exe
